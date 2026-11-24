@@ -1958,5 +1958,275 @@
       1246
     ],
     "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0102",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      13,
+      14
+    ],
+    "text": "They ran between wide tree trunks. They ran past the hanging vines and mosses.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0102.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      8,
+      7,
+      303,
+      303
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0103",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      15,
+      16
+    ],
+    "text": "They climbed over thick roots. Jack saw a clearing ahead. It was filled with sunlight.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0103.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      325,
+      7,
+      616,
+      303
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0104",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      17
+    ],
+    "text": "“That way!” he cried.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0104.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      639,
+      7,
+      930,
+      303
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0105",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      18
+    ],
+    "text": "Jack and Annie hurried toward the light. They pushed their way through the bushes.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0105.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      952,
+      8,
+      1247,
+      303
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0106",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      19,
+      20
+    ],
+    "text": "They burst onto the bank of a river. They stared at the slow-moving brown water.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0106.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      8,
+      324,
+      303,
+      616
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0107",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      21
+    ],
+    "text": "“Do you think the ants will come this way?” Annie said, panting.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0107.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      325,
+      324,
+      616,
+      616
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0108",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      22
+    ],
+    "text": "“I don’t know,” said Jack. “But if we wade a few feet into the river, we’re safe. The ants won’t go into the water. Come on.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0108.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      639,
+      324,
+      930,
+      616
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0109",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      23
+    ],
+    "text": "“Look!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0109.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      952,
+      324,
+      1245,
+      616
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0110",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      24
+    ],
+    "text": "She pointed to a big log rocking at the edge of the river. The inside of the log was dug out.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0110.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      9,
+      638,
+      303,
+      929
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0111",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      25
+    ],
+    "text": "“It looks like a canoe,” said Jack. He listened to the crackling sound in the distance. “Let’s get in it. Quick!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0111.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      326,
+      638,
+      616,
+      929
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0112",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      26
+    ],
+    "text": "Jack shoved the book into his backpack. Then he and Annie carefully climbed into the dugout log.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0112.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      639,
+      638,
+      930,
+      929
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0113",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      27
+    ],
+    "text": "Annie leaned out of it. She pushed away from the bank with her hands.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0113.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      953,
+      638,
+      1247,
+      929
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0114",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      28
+    ],
+    "text": "“Wait!” said Jack. “We don’t have paddles!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0114.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      9,
+      951,
+      303,
+      1244
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0115",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      29,
+      30
+    ],
+    "text": "“Oops,” said Annie. The canoe started moving slowly down the muddy river.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0115.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      326,
+      951,
+      616,
+      1246
+    ],
+    "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
   }
 ]
