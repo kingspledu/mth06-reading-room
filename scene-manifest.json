@@ -916,5 +916,312 @@
       617
     ],
     "review": "Visual review passed: wish/pocket transfer/spin/stillness/unseen sounds order; actual gutter overlay and native crops checked; aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0048",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "Jack opened his eyes. The air was hot and steamy.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0048.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      7,
+      303,
+      303
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0049",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      3,
+      4
+    ],
+    "text": "“It looks like we landed in some bushes,” said Annie. She was peeking out of the tree house window. Peanut was peeking out of Annie’s pocket.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0049.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      325,
+      7,
+      616,
+      303
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0050",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "text": "Jack peeked out of the tree house, too. They had landed in a sea of shiny green leaves. Outside there were flowers, bright butterflies, and birds. Just as in the book.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0050.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      638,
+      7,
+      929,
+      303
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0051",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "“That’s strange,” said Jack. “I wonder why we didn’t land in a tree. The way we always do.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0051.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      951,
+      7,
+      1246,
+      303
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0052",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      8
+    ],
+    "text": "“I don’t know,” said Annie. “But let’s hurry and find the thing for Morgan. So we can get back home before we meet any big bugs.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0052.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      325,
+      303,
+      616
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0053",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      9
+    ],
+    "text": "“Wait. This seems weird,” said Jack. “I don’t understand why we landed in bushes. I’d better read about this.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0053.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      325,
+      325,
+      616,
+      616
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0054",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      10
+    ],
+    "text": "“Oh, come on,” said Annie. “We don’t even need the ladder. We can just climb out the window.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0054.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      638,
+      325,
+      929,
+      616
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0055",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "text": "Annie put Peanut in her pocket. She stuck one leg out the window.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0055.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      952,
+      325,
+      1244,
+      616
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0056",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“Wait!” Jack grabbed Annie’s other leg. He read:",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0056.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      6,
+      638,
+      303,
+      929
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0057",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "The rain forest is in three layers. Thick treetops, often over 150 feet in the air, make up the top layer. This is called the forest canopy. Below the canopy is the understory, then the forest floor.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0057.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      325,
+      638,
+      616,
+      929
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0058",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      14
+    ],
+    "text": "“Get back in here!” cried Jack. “We’re probably more than 150 feet above the ground! In the forest canopy!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0058.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      638,
+      638,
+      929,
+      929
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0059",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      15
+    ],
+    "text": "“Yikes!” said Annie. She slipped back into the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0059.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      952,
+      638,
+      1244,
+      929
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0060",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "“We have to use the ladder,” said Jack. He got on his hands and knees. He moved leaves away from the hole in the floor. He looked down.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0060.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      951,
+      303,
+      1246
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0061",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      17
+    ],
+    "text": "The ladder seemed to fall between the branches of a giant tree. But Jack couldn’t see beyond that.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0061.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      325,
+      951,
+      616,
+      1244
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0062",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      18
+    ],
+    "text": "“I can’t tell what’s down there,” he said. “Be careful.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0062.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      638,
+      951,
+      929,
+      1246
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0063",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      19
+    ],
+    "text": "Jack put the rain forest book in his backpack. Then he stepped onto the rope ladder.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0063.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      952,
+      951,
+      1245,
+      1246
+    ],
+    "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
   }
 ]
