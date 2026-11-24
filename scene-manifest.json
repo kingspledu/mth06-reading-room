@@ -2537,5 +2537,316 @@
       1241
     ],
     "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0132",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "“I’ll grab a vine,” said Jack. “And pull us to shore.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0132.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      10,
+      6,
+      304,
+      304
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0133",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      23,
+      24
+    ],
+    "text": "“Good idea,” said Annie. As they glided under the branches, Jack stood up.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0133.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      327,
+      7,
+      620,
+      304
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0134",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "The canoe rocked. He nearly fell out.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0134.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      642,
+      7,
+      934,
+      304
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0135",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      26,
+      27
+    ],
+    "text": "“Balance the canoe,” said Jack. Annie leaned to one side. Jack reached—he missed!",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0135.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      957,
+      7,
+      1253,
+      304
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0136",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      28,
+      29
+    ],
+    "text": "The canoe floated under more branches. Jack reached for another thick vine.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0136.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      10,
+      326,
+      305,
+      617
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0137",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      30,
+      31
+    ],
+    "text": "He grabbed it! It was cold and scaly. It wiggled and jerked!",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0137.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      327,
+      326,
+      620,
+      617
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0138",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      32
+    ],
+    "text": "“Ahhh!” Jack screamed and fell back into the canoe.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0138.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      642,
+      326,
+      934,
+      617
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0139",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      33,
+      34
+    ],
+    "text": "The vine was alive! It was a long green snake!",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0139.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      957,
+      326,
+      1252,
+      617
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0140",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      35
+    ],
+    "text": "The snake fell from the tree. It splashed into the water and swam away.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0140.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      9,
+      638,
+      304,
+      926
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0141",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      36,
+      37
+    ],
+    "text": "“Oh, man,” said Jack. He and Annie stared in horror at each other.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0141.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      327,
+      638,
+      620,
+      926
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0142",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      38
+    ],
+    "text": "“What now?” said Annie, making a face.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0142.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      642,
+      638,
+      934,
+      926
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0143",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      39
+    ],
+    "text": "“Well … ” Jack looked at the river. There were no vines up ahead. But there was a big branch floating on the water.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0143.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      958,
+      638,
+      1252,
+      926
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0144",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      40
+    ],
+    "text": "“Grab that branch near you,” said Jack. “Maybe we can use it for a paddle.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0144.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      10,
+      947,
+      304,
+      1238
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0145",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      41
+    ],
+    "text": "The canoe floated closer to the branch. Annie reached for it.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0145.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      327,
+      947,
+      620,
+      1238
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0146",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      42,
+      43
+    ],
+    "text": "Suddenly the branch rose into the air! It was a crocodile!",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0146.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      643,
+      947,
+      934,
+      1238
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0147",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      44
+    ],
+    "text": "“Help!” screamed Annie, and she fell back into the canoe.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0147.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      958,
+      947,
+      1252,
+      1238
+    ],
+    "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
   }
 ]
