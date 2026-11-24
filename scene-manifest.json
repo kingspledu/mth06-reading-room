@@ -463,5 +463,319 @@
       1237
     ],
     "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0025",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "text": "“Wow,” said Jack, picking up the book. “The ninja book was open yesterday. Now this one. Who opened them?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0025.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      6,
+      4,
+      311,
+      309
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0026",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      2,
+      3
+    ],
+    "text": "Jack closed the book and looked at the cover. It showed a picture of a green forest. The trees were very tall and close together.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0026.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      324,
+      4,
+      622,
+      309
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0027",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      4,
+      5
+    ],
+    "text": "On the cover were the words The Rain Forest. “Oh, wow,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0027.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      636,
+      4,
+      935,
+      309
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0028",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      6,
+      7
+    ],
+    "text": "“Oh, no,” said Annie. “What’s wrong?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0028.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      949,
+      4,
+      1254,
+      309
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0029",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      8
+    ],
+    "text": "“I learned about the rain forest in school,” said Annie. “It’s filled with big bugs and spiders.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0029.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      6,
+      322,
+      310,
+      616
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0030",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      9
+    ],
+    "text": "“I know,” said Jack. “Half of them have never even been named.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0030.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      324,
+      322,
+      622,
+      616
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0031",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      10,
+      11
+    ],
+    "text": "“It’s creepy,” said Annie. “It’s neat,” said Jack. He wanted to take lots of notes in the rain forest. Maybe he could even name some unknown bugs.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0031.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      636,
+      322,
+      935,
+      616
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0032",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“Neat? Yuk,” said Annie. She shivered.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0032.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      949,
+      322,
+      1254,
+      616
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0033",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "“I don’t get it,” said Jack. “You weren’t afraid of dinosaurs.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0033.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      5,
+      629,
+      310,
+      926
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0034",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      14,
+      15
+    ],
+    "text": "“So?” “You weren’t afraid of the castle guards or the mummy’s ghost.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0034.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      324,
+      629,
+      621,
+      926
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0035",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      16,
+      17
+    ],
+    "text": "“So?” “You weren’t afraid of pirates or ninjas.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0035.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      636,
+      629,
+      936,
+      926
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0036",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "“So?” “You’re not afraid of really scary things. But you’re afraid of little bugs and spiders. That doesn’t make sense.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0036.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      950,
+      629,
+      1252,
+      926
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0037",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      20,
+      21
+    ],
+    "text": "“So?” Jack sighed. “Listen,” he said. “We have to go there. To help Morgan. That’s why the book was left open.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0037.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      6,
+      940,
+      310,
+      1241
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0038",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      22,
+      23
+    ],
+    "text": "“I know that,” said Annie, frowning. “Plus, the rain forests are being cut down,” said Jack. “Don’t you want to see one before it’s too late?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0038.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      324,
+      940,
+      622,
+      1242
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0039",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      24,
+      25
+    ],
+    "text": "Annie took a deep breath and slowly nodded. “Okay, then, let’s go,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0039.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      637,
+      940,
+      935,
+      1241
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0040",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "He opened the book again. He pointed to a picture that showed blue sky, green leaves, and bright flowers.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0040.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      951,
+      940,
+      1252,
+      1242
+    ],
+    "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
   }
 ]
