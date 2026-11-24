@@ -3549,5 +3549,316 @@
       1243
     ],
     "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0184",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "Jack and Annie jumped out of the canoe. The rain was starting to fall harder.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0184.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      9,
+      7,
+      304,
+      302
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0185",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "The monkey took off. He swung from tree to tree, heading up the riverbank.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0185.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      326,
+      6,
+      619,
+      302
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0186",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      4,
+      5
+    ],
+    "text": "He screeched and beckoned to Jack and Annie. “He wants us to follow him!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0186.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      641,
+      6,
+      933,
+      302
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0187",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "“No! We have to find the special thing. Then go home!” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0187.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      955,
+      7,
+      1252,
+      302
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0188",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "“He wants to help us!” said Annie. She took off after the monkey.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0188.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      6,
+      323,
+      304,
+      614
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0189",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      8,
+      9
+    ],
+    "text": "The two of them vanished into the rain forest. “Annie!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0189.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      326,
+      323,
+      619,
+      614
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0190",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      10,
+      11
+    ],
+    "text": "Thunder shook the sky. “Oh, brother,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0190.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      641,
+      323,
+      933,
+      614
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0191",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "He dashed after Annie and the monkey. Into the dark forest.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0191.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      956,
+      323,
+      1250,
+      614
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0192",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      13,
+      14
+    ],
+    "text": "The forest seemed surprisingly dry. Jack looked up. It was still raining. But the treetops acted like a huge umbrella.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0192.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      7,
+      635,
+      304,
+      926
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0193",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      15
+    ],
+    "text": "“Annie?” called Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0193.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      326,
+      635,
+      619,
+      926
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0194",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "“Jack! Jack!” cried Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0194.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      641,
+      635,
+      933,
+      926
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0195",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      17,
+      18
+    ],
+    "text": "“Where are you?” “Here!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0195.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      956,
+      635,
+      1250,
+      926
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0196",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      19,
+      20
+    ],
+    "text": "Jack hurried in the direction of Annie’s voice. Soon he found the monkey. He was screeching and swinging from a tree.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0196.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      7,
+      946,
+      304,
+      1242
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0197",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "Annie was kneeling on the forest floor. She was playing with an animal that looked like a giant kitten.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0197.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      326,
+      946,
+      619,
+      1242
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0198",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "“What’s that?” Jack said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0198.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      641,
+      946,
+      933,
+      1242
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0199",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "“I don’t know, but I love it!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0199.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      956,
+      946,
+      1250,
+      1242
+    ],
+    "review": "Visual review passed: bank-to-forest chase, canopy shelter and cub first appearance; gutters/native crops checked; 4px edge correction"
   }
 ]
