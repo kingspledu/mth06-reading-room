@@ -2228,5 +2228,314 @@
       1246
     ],
     "review": "Visual review passed: forest run, clearing, brown river, dugout canoe and hand-push sequence; no paddles/mast/wet clothing; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0116",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "Squeak. Annie patted the little mouse in her pocket.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0116.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      10,
+      6,
+      304,
+      300
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0117",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "“It’s okay, Peanut. The ants can’t get us in the river. We’re safe,” she said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0117.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      327,
+      6,
+      620,
+      300
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0118",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "text": "“Maybe safe from the ants,” said Jack. “But where is this canoe going?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0118.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      642,
+      8,
+      934,
+      300
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0119",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      5
+    ],
+    "text": "Jack and Annie stared at the river. Branches spread over the water. Vines and mosses hung down from them.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0119.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      957,
+      6,
+      1253,
+      300
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0120",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "“We’d better look this up,” said Jack. He pulled the rain forest book out of his backpack and flipped through it.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0120.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      10,
+      322,
+      304,
+      615
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0121",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      7,
+      8
+    ],
+    "text": "Soon he found a picture of a river. He read: The Amazon River stretches over 4,000 miles from the mountains of Peru, across Brazil, to the Atlantic Ocean. The river basin contains over half of the rain forests in the world.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0121.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      327,
+      322,
+      620,
+      615
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0122",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      9
+    ],
+    "text": "Jack looked at Annie. “We’re on the Amazon River,” he said. “It’s more than four thousand miles long!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0122.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      642,
+      322,
+      934,
+      615
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0123",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      10
+    ],
+    "text": "“Wow,” Annie whispered. She looked at the river. She trailed her hand through the water.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0123.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      957,
+      322,
+      1251,
+      615
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0124",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "text": "“I have to make some notes—” Jack said. He pulled his notebook out of his pack. He wrote:",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0124.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      10,
+      636,
+      304,
+      925
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0125",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      12,
+      13,
+      14
+    ],
+    "text": "The Amazon rain forest is “Jack, look at those pretty fish with the teeth,” said Annie. “What?” Jack glanced up from his writing.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0125.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      328,
+      636,
+      620,
+      925
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0126",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      15
+    ],
+    "text": "Annie was pointing at some blue fish swimming near the boat. The fish had red bellies and razor-sharp teeth.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0126.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      642,
+      636,
+      934,
+      925
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0127",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "“Watch it!” cried Jack. “Those aren’t pretty fish. They’re piranhas! They’ll eat anything! Even people!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0127.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      957,
+      636,
+      1253,
+      925
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0128",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      17,
+      18
+    ],
+    "text": "“Yikes,” whispered Annie. “We better get back on shore,” said Jack, putting the books in his backpack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0128.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      10,
+      947,
+      304,
+      1239
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0129",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      19
+    ],
+    "text": "“How?” said Annie. “We can’t go in the water now. And we don’t have any paddles.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0129.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      328,
+      947,
+      620,
+      1239
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0130",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "Jack tried to stay calm. “We need a plan,” he said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0130.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      642,
+      947,
+      934,
+      1240
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0131",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "Jack stared at the river. The canoe would soon float under some vines.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0131.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      957,
+      947,
+      1253,
+      1241
+    ],
+    "review": "Visual review passed: canoe/book/notebook/piranha sequence; actual gutter overlay and native crops inspected, 4px edge correction"
   }
 ]
