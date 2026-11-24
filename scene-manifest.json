@@ -2927,5 +2927,316 @@
       306
     ],
     "review": "Visual review passed: departing crocodile, offscreen screech, startled children, tail-hanging monkey reveal; actual gutter overlay/native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0152",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "text": "Squeak! Squeak! Peanut poked her head out from Annie’s pocket. She seemed to be yelling at the monkey.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0152.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      12,
+      12,
+      303,
+      303
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0153",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      2
+    ],
+    "text": "“Don’t worry, Peanut,” said Annie. “He’s just a little monkey. He won’t hurt us.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0153.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      327,
+      12,
+      618,
+      303
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0154",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "But suddenly the monkey grabbed a big red fruit hanging from the tree. He hurled it at the canoe.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0154.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      641,
+      10,
+      931,
+      303
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0155",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "text": "“Watch it!” shouted Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0155.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      956,
+      12,
+      1247,
+      303
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0156",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "text": "The fruit fell into the water with a splash. The monkey screeched even louder.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0156.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      12,
+      327,
+      303,
+      613
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0157",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      7,
+      8
+    ],
+    "text": "He grabbed another fruit. “Don’t throw things at us!” shouted Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0157.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      327,
+      327,
+      617,
+      613
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0158",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      9,
+      10
+    ],
+    "text": "But the monkey hurled the red fruit right at them. Jack and Annie ducked again. And the fruit splashed into the water.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0158.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      641,
+      327,
+      931,
+      613
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0159",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "text": "“Stop that!” Annie shouted.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0159.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      956,
+      327,
+      1246,
+      613
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0160",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      12,
+      13
+    ],
+    "text": "But the monkey only waved his arms and screeched again. “Oh, brother,” said Jack. “I don’t believe this.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0160.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      12,
+      637,
+      303,
+      926
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0161",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      14
+    ],
+    "text": "The monkey grabbed a third fruit and hurled it at Jack and Annie. It landed inside the canoe with a thump.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0161.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      327,
+      637,
+      617,
+      926
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0162",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      15
+    ],
+    "text": "Annie grabbed the fruit. She stood up and threw it back at the monkey.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0162.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      641,
+      637,
+      931,
+      926
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0163",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "She missed. The canoe rocked. Annie almost fell out.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0163.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      956,
+      637,
+      1246,
+      926
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0164",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      17,
+      18
+    ],
+    "text": "The monkey screeched even louder. “Go away!” Annie shouted. “You’re the meanest thing in the world!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0164.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      12,
+      949,
+      303,
+      1234
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0165",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      19,
+      20
+    ],
+    "text": "The monkey stopped screeching. He looked at Annie. Then he swung away. Into the forest.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0165.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      327,
+      949,
+      618,
+      1234
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0166",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      21,
+      22
+    ],
+    "text": "“I think I hurt his feelings,” said Annie. “Who cares?” said Jack. “He shouldn’t throw things.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0166.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      641,
+      949,
+      931,
+      1234
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0167",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "“Uh-oh,” said Annie. “It’s raining now.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0167.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      956,
+      949,
+      1246,
+      1236
+    ],
+    "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
   }
 ]
