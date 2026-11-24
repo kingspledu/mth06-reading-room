@@ -1,0 +1,467 @@
+[
+  {
+    "id": "mth06-scene-0017",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "A brown-and-white mouse peeked out of the sock. She looked from Annie to Jack with her big eyes.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0017.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      10,
+      10,
+      370,
+      250
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0018",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "Jack laughed. “Hi, Peanut,” he said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0018.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      400,
+      10,
+      754,
+      250
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0019",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "“Will you help us again today?” asked Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0019.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      784,
+      10,
+      1138,
+      250
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0020",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "In old Japan, Peanut had helped them when they’d gotten lost. “We have to find three more things for Morgan,” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0020.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1167,
+      10,
+      1525,
+      250
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0021",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "Jack pushed his glasses into place. “First we have to find a clue that tells us where to begin,” he said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0021.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      10,
+      280,
+      370,
+      509
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0022",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      30,
+      31
+    ],
+    "text": "“Guess what,” said Annie. “What?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0022.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      400,
+      280,
+      754,
+      509
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0023",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      32
+    ],
+    "text": "“We don’t have to look very far.” She pointed at a corner of the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0023.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      784,
+      280,
+      1138,
+      509
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0024",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      33
+    ],
+    "text": "In the shadows was an open book.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0024.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1167,
+      280,
+      1525,
+      509
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0001",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "text": "“Hurry, Jack!” shouted Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0001.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      9,
+      10,
+      303,
+      302
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0002",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      2,
+      3
+    ],
+    "text": "Annie ran into the Frog Creek woods. Jack followed her.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0002.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      326,
+      10,
+      617,
+      302
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0003",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "text": "“It’s still here!” Annie called.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0003.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      639,
+      10,
+      928,
+      302
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0004",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      5
+    ],
+    "text": "Jack caught up with Annie. She stood beside a tall oak tree.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0004.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      951,
+      10,
+      1243,
+      302
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0005",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "Jack looked up. The magic tree house was shining in the afternoon sunlight.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0005.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      10,
+      326,
+      303,
+      615
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0006",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "“We’re coming, Peanut!” Annie called.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0006.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      327,
+      326,
+      617,
+      615
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0007",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      8,
+      9
+    ],
+    "text": "She grabbed the rope ladder and started up. Jack followed. They climbed and climbed. Finally they climbed into the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0007.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      640,
+      326,
+      928,
+      615
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0008",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      10
+    ],
+    "text": "“Peanut?” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0008.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      952,
+      326,
+      1245,
+      615
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0009",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "text": "Jack took off his backpack. He looked around.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0009.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      12,
+      639,
+      303,
+      918
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0010",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      12,
+      13
+    ],
+    "text": "Sunlight slanted across a stack of books—books about ninjas, pirates, mummies, knights, and dinosaurs. The letter M shimmered on the wooden floor. M for Morgan le Fay.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0010.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      327,
+      639,
+      616,
+      918
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0011",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      14,
+      15
+    ],
+    "text": "“I don’t think Peanut’s here,” said Jack. “I wonder where she is,” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0011.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      640,
+      639,
+      928,
+      918
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0012",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "“How do you know Peanut’s a she?” asked Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0012.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      952,
+      639,
+      1245,
+      918
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0013",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      17,
+      18
+    ],
+    "text": "“I just know it,” said Annie. “Oh, brother,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0013.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      12,
+      941,
+      303,
+      1237
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0014",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      19,
+      20
+    ],
+    "text": "Squeak! Annie laughed. “Look, Jack!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0014.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      327,
+      941,
+      616,
+      1237
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0015",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "A small pink sock was moving across the floor. Yesterday Annie had turned her sock into a bed for Peanut.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0015.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      640,
+      941,
+      927,
+      1237
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  },
+  {
+    "id": "mth06-scene-0016",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      22,
+      23
+    ],
+    "text": "Annie picked up the tiny lump. Squeak.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0016.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      953,
+      941,
+      1243,
+      1237
+    ],
+    "review": "Visual sequence and crop overlays inspected; early pocket mouse removed in generated correction; native ratio preserved"
+  }
+]
