@@ -1648,5 +1648,315 @@
       1245
     ],
     "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0086",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "Annie stopped. “Wait—what’s that?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0086.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      6,
+      7,
+      302,
+      302
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0087",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      23,
+      24
+    ],
+    "text": "“What’s what?” “Listen—that weird sound.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0087.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      325,
+      7,
+      616,
+      302
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0088",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "Jack listened. He heard a crackling sound. It sounded like a person walking over leaves.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0088.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      639,
+      7,
+      929,
+      302
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0089",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "Jack looked around. He didn’t see anyone.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0089.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      952,
+      7,
+      1246,
+      302
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0090",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "But the sound got louder. Was it an animal? A giant bug? One that had never been named?",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0090.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      10,
+      324,
+      302,
+      616
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0091",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      29,
+      30
+    ],
+    "text": "Just then the silent forest came alive. Birds took off into the air. Frogs hopped over the leaves. Lizards ran up the tree trunks.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0091.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      325,
+      324,
+      616,
+      616
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0092",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "text": "The weird noise grew louder and louder.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0092.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      639,
+      324,
+      929,
+      616
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0093",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      1
+    ],
+    "text": "“Maybe the book explains it,” said Jack. He opened the book. He found a picture of different animals running together. He read:",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0093.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      952,
+      324,
+      1246,
+      616
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0094",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      2
+    ],
+    "text": "When animals hear a crackling sound, they flee in panic. The sound means that 30 million flesh-eating army ants are marching through the dead leaves.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0094.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      6,
+      637,
+      302,
+      929
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0095",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      3
+    ],
+    "text": "“It’s army ants!” cried Jack. “Millions of them!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0095.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      325,
+      637,
+      616,
+      929
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0096",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      4
+    ],
+    "text": "“Where?” cried Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0096.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      639,
+      637,
+      929,
+      929
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0097",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "text": "Jack and Annie looked around wildly. “There!” Annie pointed.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0097.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      952,
+      637,
+      1246,
+      929
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0098",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      7,
+      8
+    ],
+    "text": "Army ants—millions and millions of them—were marching over the leaves! “Run to the tree house!” cried Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0098.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      10,
+      951,
+      302,
+      1246
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0099",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      9
+    ],
+    "text": "“Where is it?” said Jack, whirling around. All the trees looked the same. Where was the rope ladder?",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0099.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      325,
+      951,
+      616,
+      1246
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0100",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      10
+    ],
+    "text": "“Just run!” cried Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0100.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      639,
+      951,
+      929,
+      1246
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0101",
+    "chapter": 4,
+    "part": 2,
+    "paragraphs": [
+      11,
+      12
+    ],
+    "text": "Jack and Annie took off. They ran over the dead leaves.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0101.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      952,
+      951,
+      1246,
+      1246
+    ],
+    "review": "Visual review passed: unseen sound, fleeing wildlife, book explanation, small army-ant column and run sequence; actual gutter overlay/native crops inspected; 4px edge correction."
   }
 ]
