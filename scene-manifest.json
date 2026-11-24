@@ -2848,5 +2848,84 @@
       1238
     ],
     "review": "Visual review passed: vine/snake/crocodile timing, dry costumes, animals outside canoe; detected gutters and native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0148",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      45
+    ],
+    "text": "The crocodile opened and closed its huge, long jaws. Then it moved past the canoe and swam up the river.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0148.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      10,
+      6,
+      305,
+      306
+    ],
+    "review": "Visual review passed: departing crocodile, offscreen screech, startled children, tail-hanging monkey reveal; actual gutter overlay/native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0149",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      46,
+      47
+    ],
+    "text": "“Oh, man,” whispered Jack. A screeching sound split the air.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0149.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      328,
+      6,
+      620,
+      306
+    ],
+    "review": "Visual review passed: departing crocodile, offscreen screech, startled children, tail-hanging monkey reveal; actual gutter overlay/native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0150",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      48,
+      49
+    ],
+    "text": "Jack and Annie jumped. “Help!” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0150.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      643,
+      7,
+      934,
+      306
+    ],
+    "review": "Visual review passed: departing crocodile, offscreen screech, startled children, tail-hanging monkey reveal; actual gutter overlay/native crops inspected; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0151",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      50,
+      51
+    ],
+    "text": "He expected to see another terrible creature. But all he saw was a small brown monkey, hanging by its tail from a tree.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0151.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      958,
+      7,
+      1252,
+      306
+    ],
+    "review": "Visual review passed: departing crocodile, offscreen screech, startled children, tail-hanging monkey reveal; actual gutter overlay/native crops inspected; 4px edge correction"
   }
 ]
