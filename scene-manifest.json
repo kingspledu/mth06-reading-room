@@ -1223,5 +1223,121 @@
       1246
     ],
     "review": "Visual review passed: canopy height, window leg/inside-leg rescue, pocket mouse, backpack packing continuity; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0064",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "He started down. Annie followed with Peanut in her pocket.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0064.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      7,
+      7,
+      302,
+      302
+    ],
+    "review": "Visual review passed: Jack below Annie on rope ladder; dry clothes and single worn backpack; distant ground and shaded understory; actual gutter overlay/native crops checked, 5px residual white edge correction."
+  },
+  {
+    "id": "mth06-scene-0065",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      21,
+      22
+    ],
+    "text": "Jack pushed through the leaves. He came to the understory below the canopy.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0065.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      326,
+      9,
+      615,
+      302
+    ],
+    "review": "Visual review passed: Jack below Annie on rope ladder; dry clothes and single worn backpack; distant ground and shaded understory; actual gutter overlay/native crops checked, 5px residual white edge correction."
+  },
+  {
+    "id": "mth06-scene-0066",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "He looked down at the forest floor. It was very far away.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0066.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      639,
+      7,
+      929,
+      302
+    ],
+    "review": "Visual review passed: Jack below Annie on rope ladder; dry clothes and single worn backpack; distant ground and shaded understory; actual gutter overlay/native crops checked, 5px residual white edge correction."
+  },
+  {
+    "id": "mth06-scene-0067",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      24,
+      25
+    ],
+    "text": "“Oh, man,” whispered Jack. This world was completely different from the one above the treetops.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0067.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      952,
+      10,
+      1245,
+      302
+    ],
+    "review": "Visual review passed: Jack below Annie on rope ladder; dry clothes and single worn backpack; distant ground and shaded understory; actual gutter overlay/native crops checked, 5px residual white edge correction."
+  },
+  {
+    "id": "mth06-scene-0068",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "Now that they were out of the sun, it was cooler. It was also damp and very quiet.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0068.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      9,
+      325,
+      303,
+      615
+    ],
+    "review": "Visual review passed: Jack below Annie on rope ladder; dry clothes and single worn backpack; distant ground and shaded understory; actual gutter overlay/native crops checked, 5px residual white edge correction."
+  },
+  {
+    "id": "mth06-scene-0069",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      27
+    ],
+    "text": "Jack shivered. It was the spookiest place he had ever seen.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0069.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      326,
+      325,
+      616,
+      615
+    ],
+    "review": "Visual review passed: Jack below Annie on rope ladder; dry clothes and single worn backpack; distant ground and shaded understory; actual gutter overlay/native crops checked, 5px residual white edge correction."
   }
 ]
