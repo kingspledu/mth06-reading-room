@@ -3238,5 +3238,316 @@
       1236
     ],
     "review": "Visual review passed: monkey fruit sequence, canoe balance, no rain before scene167; actual gutters and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0168",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "“What?” Jack looked up. A raindrop hit him in the eye.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0168.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      10,
+      11,
+      302,
+      302
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0169",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "“Oh, no. I don’t believe this,” Jack said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0169.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      326,
+      11,
+      615,
+      302
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0170",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "“What’d you expect?” said Annie. “It is the rain forest.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0170.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      639,
+      11,
+      928,
+      302
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0171",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "A gust of wind blew the canoe. Thunder rolled in the sky.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0171.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      953,
+      11,
+      1242,
+      302
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0172",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "“A river’s a bad place to be in a storm,” said Jack. “We have to get back to shore. Right now.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0172.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      10,
+      325,
+      302,
+      615
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0173",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      30
+    ],
+    "text": "“But how?” said Annie. “We can’t wade or swim. The piranhas, the snake, and the crocodile will get us.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0173.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      326,
+      325,
+      615,
+      615
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0174",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      31,
+      32
+    ],
+    "text": "Screeching split the air again. “Oh, no,” said Jack. The bratty monkey was back.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0174.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      639,
+      325,
+      928,
+      615
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0175",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      33,
+      34
+    ],
+    "text": "This time, the monkey was pointing a long stick at the canoe. Jack crouched down. Was the monkey going to hurl the stick at them? Like a spear?",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0175.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      952,
+      325,
+      1242,
+      615
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0176",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      35,
+      36
+    ],
+    "text": "Annie jumped up and faced the monkey. “Watch it! He’s nuts,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0176.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      10,
+      638,
+      302,
+      929
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0177",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      37
+    ],
+    "text": "But the monkey just stared at Annie. And Annie just stared back at him.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0177.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      326,
+      638,
+      615,
+      929
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0178",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      38,
+      39
+    ],
+    "text": "After a long moment, the monkey seemed to smile. Annie smiled back.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0178.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      639,
+      638,
+      928,
+      929
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0179",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      40
+    ],
+    "text": "“What’s going on?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0179.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      953,
+      638,
+      1242,
+      929
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0180",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      41,
+      42
+    ],
+    "text": "“He wants to help us,” Annie said. “Help us how?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0180.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      10,
+      951,
+      302,
+      1242
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0181",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      43,
+      44
+    ],
+    "text": "The monkey held out the long stick. Annie grabbed the other end.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0181.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      326,
+      951,
+      615,
+      1242
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0182",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      45
+    ],
+    "text": "The monkey pulled on the stick. The canoe started floating toward him.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0182.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      639,
+      951,
+      928,
+      1242
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0183",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      46
+    ],
+    "text": "The monkey pulled the canoe all the way to the bank of the river.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0183.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      953,
+      951,
+      1242,
+      1243
+    ],
+    "review": "Visual review passed: rain and stick rescue continuity, actual gutter overlay and native crops checked; 4px edge correction"
   }
 ]
