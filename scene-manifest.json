@@ -777,5 +777,144 @@
       1242
     ],
     "review": "Visual review passed: narrative and character continuity; actual gutter overlay and native crop checks; no adjacent panels or white gutter retained."
+  },
+  {
+    "id": "mth06-scene-0041",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "“I wish we could go there,” he said. The wind began to blow.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0041.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      6,
+      6,
+      302,
+      305
+    ],
+    "review": "Visual review passed: wish/pocket transfer/spin/stillness/unseen sounds order; actual gutter overlay and native crops checked; aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0042",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      29,
+      30
+    ],
+    "text": "Squeak. “Stay here, Peanut,” said Annie as she put the mouse in her pocket.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0042.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      325,
+      6,
+      615,
+      305
+    ],
+    "review": "Visual review passed: wish/pocket transfer/spin/stillness/unseen sounds order; actual gutter overlay and native crops checked; aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0043",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "text": "The wind picked up. The tree house started to spin.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0043.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      639,
+      6,
+      929,
+      305
+    ],
+    "review": "Visual review passed: wish/pocket transfer/spin/stillness/unseen sounds order; actual gutter overlay and native crops checked; aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0044",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      32,
+      33
+    ],
+    "text": "Jack squeezed his eyes shut. The wind was whistling now. The tree house was spinning faster and faster.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0044.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      952,
+      7,
+      1248,
+      305
+    ],
+    "review": "Visual review passed: wish/pocket transfer/spin/stillness/unseen sounds order; actual gutter overlay and native crops checked; aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0045",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      34,
+      35
+    ],
+    "text": "Then everything was still. Absolutely still.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0045.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      6,
+      326,
+      302,
+      617
+    ],
+    "review": "Visual review passed: wish/pocket transfer/spin/stillness/unseen sounds order; actual gutter overlay and native crops checked; aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0046",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      36,
+      37
+    ],
+    "text": "Wild sounds broke the silence. Screeeeeech!",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0046.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      325,
+      326,
+      616,
+      617
+    ],
+    "review": "Visual review passed: wish/pocket transfer/spin/stillness/unseen sounds order; actual gutter overlay and native crops checked; aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0047",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      38,
+      39
+    ],
+    "text": "Buzzzzzzz! Chirp! Chirp!",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0047.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      639,
+      326,
+      929,
+      617
+    ],
+    "review": "Visual review passed: wish/pocket transfer/spin/stillness/unseen sounds order; actual gutter overlay and native crops checked; aspect ratio preserved."
   }
 ]
