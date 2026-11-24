@@ -1339,5 +1339,314 @@
       615
     ],
     "review": "Visual review passed: Jack below Annie on rope ladder; dry clothes and single worn backpack; distant ground and shaded understory; actual gutter overlay/native crops checked, 5px residual white edge correction."
+  },
+  {
+    "id": "mth06-scene-0070",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "text": "Jack didn’t move. He kept staring down at the forest floor.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0070.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      9,
+      7,
+      301,
+      302
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0071",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      2
+    ],
+    "text": "“What’s wrong?” Annie called from above.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0071.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      325,
+      7,
+      615,
+      302
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0072",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      3,
+      4
+    ],
+    "text": "Jack didn’t answer. “You don’t see any giant spiders, do you?” Annie said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0072.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      639,
+      7,
+      929,
+      302
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0073",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      5
+    ],
+    "text": "“Well … no.” Jack took a deep breath.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0073.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      953,
+      7,
+      1245,
+      302
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0074",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "We have to keep going, he thought. We have to find the special thing for Morgan.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0074.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      10,
+      325,
+      302,
+      615
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0075",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "“No spiders. Nothing scary,” Jack called. And he started down the ladder again.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0075.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      325,
+      325,
+      615,
+      615
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0076",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      8
+    ],
+    "text": "Jack and Annie climbed down through the understory. Finally they stepped onto the forest floor.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0076.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      639,
+      325,
+      929,
+      615
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0077",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      9,
+      10
+    ],
+    "text": "Only a few rays of light slanted through the gloom. The trees were very, very tall and very wide. Vines and moss were hanging everywhere. The ground was covered with dead leaves.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0077.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      953,
+      325,
+      1245,
+      615
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0078",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      11,
+      12
+    ],
+    "text": "“Before we do anything, I’d better check the book,” said Jack. He pulled out the rain forest book. He found a picture of the dark world under the treetops.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0078.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      9,
+      638,
+      301,
+      929
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0079",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      13,
+      14
+    ],
+    "text": "He read: In the rain forest, many living creatures blend in with their surroundings. This is called camouflage.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0079.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      325,
+      638,
+      616,
+      929
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0080",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      15
+    ],
+    "text": "“Oh, man,” said Jack. He closed the book and looked around. “There’re tons of creatures down here. We just can’t see them.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0080.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      639,
+      638,
+      929,
+      929
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0081",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "“Really?” whispered Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0081.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      953,
+      638,
+      1245,
+      929
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0082",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      17
+    ],
+    "text": "She and Jack peered around at the quiet forest. Jack felt unseen eyes watching them.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0082.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      11,
+      951,
+      301,
+      1243
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0083",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "“Let’s hurry and find the special thing,” whispered Annie. “How will we know when we find it?” Jack said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0083.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      325,
+      951,
+      615,
+      1245
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0084",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "“I think we’ll just know,” said Annie. She headed off through the gloom.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0084.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      639,
+      951,
+      929,
+      1245
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
+  },
+  {
+    "id": "mth06-scene-0085",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "Jack followed. They crept between the huge trees and past hanging vines.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0085.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      953,
+      951,
+      1245,
+      1245
+    ],
+    "review": "Visual review passed: ladder-to-floor transition, dry clothing, pocket mouse, book/pack continuity, no early animals or water; actual gutter overlay and native crops inspected; 4px edge correction."
   }
 ]
