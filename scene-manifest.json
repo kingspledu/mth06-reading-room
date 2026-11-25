@@ -4728,12 +4728,12 @@
     "asset": "assets/mth06-scene-0244.webp",
     "page": "part-08-01.html",
     "crop": [
-      639,
-      950,
-      929,
-      1242
+      9,
+      10,
+      374,
+      247
     ],
-    "review": "Pending visual review before deployment"
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
   },
   {
     "id": "mth06-scene-0245",
@@ -4748,11 +4748,286 @@
     "asset": "assets/mth06-scene-0245.webp",
     "page": "part-08-01.html",
     "crop": [
-      953,
-      950,
-      1243,
-      1242
+      395,
+      9,
+      757,
+      247
     ],
-    "review": "Pending visual review before deployment"
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0246",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      47
+    ],
+    "text": "“Where is she?” asked Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0246.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      779,
+      9,
+      1141,
+      247
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0247",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      48,
+      49
+    ],
+    "text": "He kept staring at the ground. “Jack!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0247.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1163,
+      9,
+      1527,
+      247
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0248",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      50
+    ],
+    "text": "Jack glanced around. Annie was standing on the other side of a nearby tree. She was pointing up.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0248.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      9,
+      265,
+      374,
+      503
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0249",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      51,
+      52
+    ],
+    "text": "Jack looked up. The tree house.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0249.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      395,
+      265,
+      758,
+      503
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0250",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      53,
+      54
+    ],
+    "text": "“Oh, whew,” Jack said softly. “She saved us again,” said Annie. “She’s running up the ladder. All by herself. Look.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0250.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      779,
+      265,
+      1142,
+      503
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0251",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      55,
+      56
+    ],
+    "text": "Annie pointed at the rope ladder. Peanut was climbing up one of the ropes.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0251.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1163,
+      265,
+      1527,
+      503
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0252",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      57,
+      58
+    ],
+    "text": "“Let’s go,” Jack said. Annie started up the ladder. Then Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0252.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      10,
+      520,
+      373,
+      758
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0253",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      59
+    ],
+    "text": "They followed Peanut all the way up to the canopy of the rain forest.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0253.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      395,
+      520,
+      757,
+      758
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0254",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "Jack and Annie climbed into the tree house. Peanut was sitting on a stack of books.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0254.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      779,
+      520,
+      1141,
+      758
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0255",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "Annie patted Peanut’s little head. “Thanks,” she said softly.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0255.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1163,
+      520,
+      1526,
+      758
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0256",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "text": "“I have to write some notes about the rain forest,” said Jack. “You find the Pennsylvania book.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0256.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      10,
+      777,
+      373,
+      1015
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0257",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "text": "Annie began searching for the Pennsylvania book—the book that always took them home. Jack pulled out his notebook.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0257.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      395,
+      777,
+      757,
+      1015
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0258",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      7,
+      8,
+      9
+    ],
+    "text": "He had wanted to take lots of notes here. But all he’d written so far was: The Amazon rain forest is “It’s not here!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0258.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      779,
+      777,
+      1141,
+      1015
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0259",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      10
+    ],
+    "text": "“What?” Jack looked up. He glanced around the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0259.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1163,
+      777,
+      1527,
+      1015
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
   }
 ]
