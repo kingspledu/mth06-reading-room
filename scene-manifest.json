@@ -6271,5 +6271,181 @@
       1018
     ],
     "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0326",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      45
+    ],
+    "text": "“You don’t have to love them,” said Jack. “Just leave them alone. And they won’t bother you.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0326.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      6,
+      6,
+      379,
+      251
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0327",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      46
+    ],
+    "text": "In fact, that’s true about the whole rain forest, Jack thought. Everyone should just leave it all alone.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0327.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      392,
+      6,
+      762,
+      251
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0328",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      47
+    ],
+    "text": "“Who cares if the bugs don’t have names?” he said softly. “They know who they are.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0328.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      775,
+      4,
+      1146,
+      251
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0329",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      48,
+      49
+    ],
+    "text": "Jack and Annie stepped out of the Frog Creek woods. They started walking up their street. It was lit with a golden light.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0329.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1159,
+      4,
+      1530,
+      251
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0330",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      50
+    ],
+    "text": "“Race you!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0330.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      3,
+      263,
+      379,
+      506
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0331",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      51,
+      52
+    ],
+    "text": "They took off running. They ran across their yard.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0331.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      392,
+      263,
+      762,
+      506
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0332",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      53,
+      54
+    ],
+    "text": "They raced up their steps. “Safe!” they shouted together, tagging their front door.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0332.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      775,
+      263,
+      1145,
+      506
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0292",
+    "chapter": 9,
+    "part": 2,
+    "paragraphs": [
+      26,
+      27
+    ],
+    "text": "The tree house began to spin. It spun faster and faster.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0292.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      1159,
+      263,
+      1529,
+      506
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0293",
+    "chapter": 9,
+    "part": 2,
+    "paragraphs": [
+      28,
+      29
+    ],
+    "text": "Then everything was still. Absolutely still.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0293.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      6,
+      518,
+      379,
+      762
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
   }
 ]
