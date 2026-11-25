@@ -5029,5 +5029,315 @@
       1015
     ],
     "review": "All16 native crops and gutter overlay visually inspected; scene244-259 cross-chapter mapping and mouse transition checked;3px edge inset"
+  },
+  {
+    "id": "mth06-scene-0260",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "text": "Annie was right. The Pennsylvania book was nowhere in sight.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0260.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      11,
+      9,
+      374,
+      247
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0261",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“Was it here before we left home?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0261.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      396,
+      7,
+      758,
+      247
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0262",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      13,
+      14
+    ],
+    "text": "“I don’t remember,” said Annie. “Oh, man,” said Jack. “Now we can’t get back to Frog Creek.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0262.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      780,
+      9,
+      1142,
+      247
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0263",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      15,
+      16
+    ],
+    "text": "“That means we’ll be here when the vampire bats come out,” said Annie. Something came flying through the tree house window.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0263.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1164,
+      9,
+      1527,
+      247
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0264",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      17
+    ],
+    "text": "“Ahhh!” Jack and Annie hid their heads.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0264.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      9,
+      266,
+      374,
+      502
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0265",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "Thud. Something hit the floor. A red fruit.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0265.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      396,
+      266,
+      758,
+      502
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0266",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "Jack looked up. The monkey was sitting in the window. His head was cocked to one side. He seemed to be grinning at them.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0266.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      780,
+      266,
+      1142,
+      502
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0267",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "“You’re safe!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0267.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1164,
+      266,
+      1527,
+      502
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0268",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      22,
+      23
+    ],
+    "text": "“Thanks for saving us,” said Jack. The monkey just grinned.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0268.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      9,
+      522,
+      374,
+      758
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0269",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "“I have just one question,” said Annie. She pointed at the fruit. “Why do you keep throwing those at us?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0269.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      397,
+      522,
+      758,
+      758
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0270",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      25,
+      26
+    ],
+    "text": "The monkey grabbed the fruit. “No! Don’t throw it!” said Jack. He ducked.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0270.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      780,
+      522,
+      1142,
+      758
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0271",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "But the monkey didn’t throw the fruit. He held it out to Annie. He moved his lips as if he were trying to say something.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0271.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1164,
+      522,
+      1527,
+      758
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0272",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "Annie stared into the monkey’s eyes. He moved his lips again.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0272.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      9,
+      777,
+      374,
+      1014
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0273",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      30
+    ],
+    "text": "“Wow,” Annie said softly. “I understand now.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0273.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      397,
+      777,
+      758,
+      1014
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0274",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "text": "“Understand what?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0274.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      780,
+      777,
+      1142,
+      1014
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0275",
+    "chapter": 9,
+    "part": 2,
+    "paragraphs": [
+      1
+    ],
+    "text": "Annie took the fruit from the monkey. “This is it,” she said. “The thing we need.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0275.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      1164,
+      777,
+      1527,
+      1014
+    ],
+    "review": "All16 native crops and gutter overlay visually inspected; missing book, monkey return and mango handover source order verified;3px edge correction"
   }
 ]
