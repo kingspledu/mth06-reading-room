@@ -4132,5 +4132,316 @@
       1245
     ],
     "review": "Visual review passed: cub identification, adult jaguar entrance, monkey tail diversion and escape; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0214",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "text": "“Wait—” said Jack, panting. “I think we got away.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0214.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      10,
+      10,
+      303,
+      303
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0215",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      2,
+      3
+    ],
+    "text": "Jack and Annie stopped running and caught their breath. “Where are we?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0215.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      325,
+      10,
+      615,
+      303
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0216",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "text": "“Where’s the monkey?” said Annie, looking back at the forest. “Do you think the jaguar caught him?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0216.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      638,
+      10,
+      928,
+      303
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0217",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "text": "“No, monkeys are fast,” said Jack. Of course, jaguars are fast, too, Jack thought. But he didn’t want to tell Annie that.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0217.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      952,
+      10,
+      1243,
+      303
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0218",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      7,
+      8
+    ],
+    "text": "“I hope he’s okay,” said Annie. Squeak. Peanut peeked out of Annie’s pocket.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0218.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      12,
+      324,
+      303,
+      615
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0219",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      9
+    ],
+    "text": "“Peanut! I almost forgot you!” said Annie. “Are you okay?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0219.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      325,
+      324,
+      615,
+      615
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0220",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      10,
+      11
+    ],
+    "text": "The mouse just stared at Annie with her big eyes. “She looks scared,” said Jack. “Poor Peanut.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0220.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      638,
+      324,
+      928,
+      615
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0221",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“Poor monkey,” said Annie. She looked around at the forest.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0221.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      952,
+      324,
+      1242,
+      615
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0222",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      13,
+      14
+    ],
+    "text": "“We’d better check the book,” Jack said. He pulled out the book. He turned the pages, searching for help.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0222.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      10,
+      637,
+      303,
+      928
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0223",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      15,
+      16
+    ],
+    "text": "He stopped at a picture of a scary creature. “Oh, man. What’s this?” he said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0223.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      325,
+      637,
+      615,
+      928
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0224",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      17,
+      18
+    ],
+    "text": "Jack read the writing below the picture. It said: Vampire bats live in the Amazon rain forest. At night, they quietly bite their victims and suck their blood.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0224.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      638,
+      637,
+      928,
+      928
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0225",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      19
+    ],
+    "text": "“Vampire bats?” said Jack. He felt faint.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0225.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      952,
+      637,
+      1242,
+      928
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0226",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "“Vampire bats?” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0226.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      10,
+      950,
+      303,
+      1241
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0227",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "Jack nodded. “After dark.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0227.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      325,
+      950,
+      615,
+      1243
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0228",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "Annie and Jack looked around. The rain forest seemed to be getting even darker.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0228.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      639,
+      950,
+      928,
+      1243
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0229",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "“Yikes,” said Annie. She looked at Jack. “Maybe we should go home.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0229.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      952,
+      950,
+      1242,
+      1243
+    ],
+    "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
   }
 ]
