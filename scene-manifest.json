@@ -5651,5 +5651,316 @@
       1015
     ],
     "review": "Visual grid and native crop inspection, mango/book/monkey departure sequence verified;3px edge correction"
+  },
+  {
+    "id": "mth06-scene-0294",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "Squeak. Jack opened his eyes. Peanut was on the tree house windowsill.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0294.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      7,
+      5,
+      377,
+      251
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0295",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      3,
+      4
+    ],
+    "text": "“We’re home,” said Annie. Jack breathed a sigh of relief.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0295.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      392,
+      4,
+      761,
+      251
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0296",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "text": "Annie held the fruit up to the afternoon light. “What exactly is this?” she asked.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0296.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      777,
+      2,
+      1144,
+      251
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0297",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      7,
+      8
+    ],
+    "text": "“Maybe it’s in the book,” Jack answered. He pulled out the rain forest book. He flipped through the pages. He came to a picture of the red fruit.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0297.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1160,
+      4,
+      1529,
+      251
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0298",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      9
+    ],
+    "text": "“Here it is!” he said. He read out loud:",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0298.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      5,
+      264,
+      376,
+      506
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0299",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      10,
+      11
+    ],
+    "text": "“The mango has a sweet taste like that of a peach.” “Mango? Hmmm,” said Annie. She brought the fruit close to her lips.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0299.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      393,
+      264,
+      761,
+      506
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0300",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“Hey!” said Jack, grabbing the mango from her. “We have to put it with the moonstone.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0300.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      777,
+      264,
+      1144,
+      506
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0301",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "Jack placed the mango on the M carved into the floor. Next to the clear moonstone.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0301.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1161,
+      264,
+      1529,
+      506
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0302",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      14
+    ],
+    "text": "“Moonstone … mango,” whispered Annie. It sounded like a spell.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0302.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      5,
+      519,
+      376,
+      761
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0303",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      15
+    ],
+    "text": "“We’re halfway there,” said Jack. “Two more to go.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0303.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      393,
+      519,
+      760,
+      761
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0304",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "“Then we can free you, Morgan!” Annie called, as if Morgan were nearby.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0304.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      777,
+      519,
+      1144,
+      761
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0305",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      17
+    ],
+    "text": "“How do you know she can hear you?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0305.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1161,
+      519,
+      1529,
+      761
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0306",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "“I just feel it,” Annie said. “Oh, brother,” said Jack. He needed more proof than that.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0306.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      7,
+      775,
+      377,
+      1017
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0307",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "Squeak. Peanut was looking at Jack and Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0307.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      393,
+      775,
+      760,
+      1017
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0308",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      21,
+      22
+    ],
+    "text": "“We have to leave you now,” Jack said to the mouse. Squeak.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0308.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      777,
+      775,
+      1144,
+      1017
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0309",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "“Can’t we take her with us?” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0309.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1161,
+      775,
+      1530,
+      1017
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
   }
 ]
