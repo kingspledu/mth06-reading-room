@@ -4443,5 +4443,316 @@
       1243
     ],
     "review": "Visual review passed: lost forest, book-only vampire bat illustration, darkening forest and opposite directions; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0230",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "Jack nodded. For once he agreed with her.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0230.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      11,
+      8,
+      303,
+      302
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0231",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "“But what about our mission?” said Annie. “What about Morgan?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0231.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      325,
+      8,
+      616,
+      302
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0232",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "“We’ll come back,” said Jack. “We’ll have to be prepared.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0232.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      639,
+      8,
+      930,
+      302
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0233",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      27
+    ],
+    "text": "“So we’ll come back tomorrow?” Annie asked.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0233.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      952,
+      8,
+      1246,
+      302
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0234",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      28
+    ],
+    "text": "“Right. Now which way is the tree house?” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0234.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      11,
+      324,
+      303,
+      616
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0235",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      29,
+      30
+    ],
+    "text": "“This way,” said Annie, pointing. “That way,” said Jack, pointing in the opposite direction.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0235.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      325,
+      324,
+      616,
+      616
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0236",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "text": "They looked at each other. “We’re lost,” they said together.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0236.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      639,
+      324,
+      929,
+      616
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0237",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      32,
+      33
+    ],
+    "text": "Squeak. “Don’t worry, Peanut.” Annie started to pat the mouse again. But then she stopped.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0237.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      952,
+      324,
+      1245,
+      616
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0238",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      34
+    ],
+    "text": "Squeak. Squeak. Squeak.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0238.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      11,
+      637,
+      303,
+      929
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0239",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      35,
+      36
+    ],
+    "text": "“Jack, I think Peanut wants to help us,” said Annie. “How?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0239.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      326,
+      637,
+      615,
+      929
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0240",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      37,
+      38
+    ],
+    "text": "“The way she helped us in the time of ninjas—” Annie placed the mouse on the leafy forest floor. “Take us to the tree house, Peanut.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0240.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      639,
+      637,
+      929,
+      929
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0241",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      39,
+      40
+    ],
+    "text": "The mouse took off. “Where’d she go?” said Annie. “I don’t see her!”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0241.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      952,
+      637,
+      1245,
+      929
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0242",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      41
+    ],
+    "text": "“There!” said Jack. He pointed to leaves rustling on the ground.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0242.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      11,
+      950,
+      302,
+      1242
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0243",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      42,
+      43
+    ],
+    "text": "A streak of white passed over the leaves. “Yes, there!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0243.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      326,
+      950,
+      615,
+      1242
+    ],
+    "review": "Visual review passed: lost directions, Peanut pocket-to-floor transition, white streak tracking; gutters/native crops checked; 4px edge correction"
+  },
+  {
+    "id": "mth06-scene-0244",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      44
+    ],
+    "text": "Jack and Annie followed the moving leaves. The streak of white appeared. And disappeared.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0244.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      639,
+      950,
+      929,
+      1242
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth06-scene-0245",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      45,
+      46
+    ],
+    "text": "Suddenly Jack stopped. The forest floor was still. There was no sign of Peanut.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0245.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      953,
+      950,
+      1243,
+      1242
+    ],
+    "review": "Pending visual review before deployment"
   }
 ]
