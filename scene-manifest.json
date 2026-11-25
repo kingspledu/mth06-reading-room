@@ -5962,5 +5962,314 @@
       1017
     ],
     "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0310",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "“No,” said Jack. “Mom won’t let us keep a mouse in the house. She doesn’t like mice, remember?”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0310.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      8,
+      4,
+      377,
+      250
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0311",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "“How could anyone not like a mouse?” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0311.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      394,
+      4,
+      760,
+      250
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0312",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "Jack smiled. “How could anyone not like a spider?” he said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0312.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      777,
+      4,
+      1144,
+      250
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0313",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      27
+    ],
+    "text": "“That’s different.” Annie patted Peanut’s head. “Bye,” she said. “Wait for us here. We’ll be back tomorrow.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0313.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1161,
+      6,
+      1529,
+      250
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0314",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      28
+    ],
+    "text": "Jack patted the mouse, too. “Bye, Peanut. Thanks for your help,” he said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0314.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      8,
+      263,
+      377,
+      505
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0315",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      29,
+      30
+    ],
+    "text": "Squeak. Jack put the rain forest book on top of the book about ninjas.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0315.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      394,
+      263,
+      760,
+      505
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0316",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "text": "Then he pulled on his backpack. And he and Annie left the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0316.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      777,
+      263,
+      1144,
+      505
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0317",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      32
+    ],
+    "text": "They climbed down the rope ladder. They stepped onto the ground.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0317.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1161,
+      263,
+      1529,
+      505
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0318",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      33,
+      34
+    ],
+    "text": "They started walking through the Frog Creek woods. Leaf shadows danced in the light.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0318.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      6,
+      518,
+      377,
+      761
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0319",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      35,
+      36
+    ],
+    "text": "A bird called out. These woods are very different from the rain forest, Jack thought.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0319.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      394,
+      518,
+      760,
+      761
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0320",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      37
+    ],
+    "text": "“There’re no jaguars or army ants here,” he said. “No little monkeys.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0320.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      777,
+      518,
+      1144,
+      761
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0321",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      38
+    ],
+    "text": "“You know, that monkey was never being mean,” said Annie. “He was just trying to give us the mango.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0321.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1161,
+      518,
+      1529,
+      761
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0322",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      39
+    ],
+    "text": "“I know. Actually, nothing was being mean,” said Jack. “The army ants were just marching. That’s what army ants do.”",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0322.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      6,
+      774,
+      377,
+      1018
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0323",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      40,
+      41
+    ],
+    "text": "“The piranhas were just being piranhas,” said Annie. “The snake was just being a snake,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0323.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      394,
+      774,
+      760,
+      1018
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0324",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      42,
+      43
+    ],
+    "text": "“The crocodile was just being a crocodile,” said Annie. “The jaguar was just taking care of her baby,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0324.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      777,
+      774,
+      1144,
+      1018
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
+  },
+  {
+    "id": "mth06-scene-0325",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      44
+    ],
+    "text": "Annie shuddered. “I still don’t love bugs,” she said.",
+    "status": "integrated",
+    "asset": "assets/mth06-scene-0325.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1161,
+      774,
+      1529,
+      1018
+    ],
+    "review": "Visual review: source sequence, fixed character references and every delivered crop checked against detected gutter overlay; native aspect ratio preserved."
   }
 ]
